@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My profile"
-categories: Daily
+categories: daily
 ---
 
 Welcome Kits!

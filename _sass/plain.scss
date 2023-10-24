@@ -271,7 +271,6 @@ main {
   margin: 0 0 0.67em 0;
   display: flex;
   align-items: baseline;
-  border-bottom: 1px solid #eee;
 }
 
 #posts-label {
@@ -279,7 +278,7 @@ main {
   color: #555;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  padding: 10px 0;
+  padding: 10px 15px 10px 0;
   font-weight: normal;
   margin: 0;
   overflow: hidden;
