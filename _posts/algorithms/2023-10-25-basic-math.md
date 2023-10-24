@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "소수"
+title:  "정수론 - 소수"
 categories: Algorithm math prime
 use_math: true
 ---
