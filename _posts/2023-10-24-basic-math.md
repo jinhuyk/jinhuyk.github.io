@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "정수론 - 소수"
-categories: Algorithm math prime
+categories: algorithm
 use_math: true
 ---
 

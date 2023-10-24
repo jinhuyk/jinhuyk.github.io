@@ -1,13 +1,6 @@
 ---
 layout: default
----
-
-{%- if page.title -%}
-  <h1 class="page-heading">{{ page.title }}</h1>
-{%- endif -%}
-
-{{ content }}
-
+--- 
 {%- if site.posts.size > 0 -%}
   <ul class="posts">
     <li class="posts-labelgroup" id="posts-labelgroup">
@@ -18,7 +11,8 @@ layout: default
       
     </li>
 
-    {%- for post in site.posts -%}
+    {% assign category = page.category | default: page.title %}
+    {% for post in site.categories[category] %}
       <li>
         {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
         <a class="post-link" href="{{ post.url | relative_url }}">
