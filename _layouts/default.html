@@ -4,7 +4,9 @@
 <head>
   {%- include head.html -%}
 </head>
-
+{% if page.use_math %}
+  {% include mathjax_support.html %}
+{% endif %}
 {%- if site.plainwhite.condensed_mobile contains page.layout -%}
 {% assign condensed_class = "condensed" %}
 {% else %}
