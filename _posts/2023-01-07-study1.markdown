@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "자바로 배우는 핵심 자료구조와 알고리즘 - 기록"
-categories: daily study
+categories: study
 ---
 
 책 - 자바로 배우는 핵심 자료구조와 알고리즘으로 자료구조 깨우쳐보기
