@@ -4,4 +4,4 @@ source "https://rubygems.org"
 
 # gem "rails"
 gemspec
-gem "plainwhite"
+##gem "plainwhite"
