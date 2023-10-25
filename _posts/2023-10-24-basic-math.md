@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "정수론"
+title:  "수학 - 정수론 기초"
 categories: algorithm number-theory
 use_math: true
 ---
