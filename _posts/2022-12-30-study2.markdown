@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rest API란 무엇일까"
-categories: study
+categories: daily study
 ---
 
 Representational State Transfer API...
