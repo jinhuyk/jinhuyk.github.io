@@ -5,12 +5,13 @@ layout: default
 {{ content }}
 <ul class="posts">
     <li class="posts-labelgroup" id="posts-labelgroup">
-    <h1 id="posts-label">Posts</h1>
+    <a href="/" id="posts-label">Posts</a>
+    <a href="/profile" id="posts-label">Profile</a>
     <a href="/category/daily" id="posts-label">Daily</a>
-    <a href="/category/algorithm" id="posts-label">Algorithm</a>
     <a href="/category/study" id="posts-label">Study</a>
     <a href="/category/project" id="posts-label">Project</a>
-      
+    <a href="/category/algorithm" id="posts-label">Algorithm</a>
+    <a href="/category/ps" id="posts-label">PS</a>
     </li>
 
     {% assign category = page.category | default: page.title %}
