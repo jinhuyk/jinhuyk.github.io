@@ -10,7 +10,7 @@ permalink: /profile/
 - (2019.03 ~ 2022.02 ) 세마고등학교 과학중점 졸업
 
 ### 온라인 저지
-- solved.ac [**<span style="color:green">codemun26 (class 3, Platinum III)</span>**](https://solved.ac/profile/codemun26)
+- solved.ac [**<span style="color:green">codemun26 (class 5, Platinum I)</span>**](https://solved.ac/profile/codemun26)
 
 ### 활동 
 - 세마고등학교 과학실 물품관리 시스템 개발 및 운영중 [바로가기](https://port-0-semascience-fyyf25lbmid9vi.gksl2.cloudtype.app)
