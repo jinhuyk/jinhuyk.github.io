@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /profile/
+permalink: /
 ---
 ## welcome my Post Space!
 
