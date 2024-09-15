@@ -11,7 +11,8 @@ use_math: true
 
 - NYPC 2024 Round 1 문제풀이
 - 백준 정수론 문제풀이
-- Query 알고리즘 공부
+- Search 알고리즘 공부
+- [자료 활용](https://witch.work/posts/binary-search-next-step)
 
 #### 10월 첫주 (9월 28일 ~ 10월 6일)
 
